@@ -1,2 +1,2 @@
-# Refresher
-A repository created to refresh knowledge on git commands
+# REFRESHER
+This repository was created to remind me of git commands after leaving programing for awhile.
